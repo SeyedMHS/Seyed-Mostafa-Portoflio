@@ -6,7 +6,7 @@ import solidJs from "@astrojs/solid-js"
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://seyed-mostafa-portoflio-2024.vercel.app",
+  site: "https://astro-sphere-demo.vercel.app",
   assets: true,
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
