@@ -10,8 +10,13 @@ export default defineConfig({
   site: "https://www.mostafa-hashemi.com",
   assets: true,
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
-    output: 'server',
+   
+})
+
+
+export default defineConfig({
+  output: 'server',
   adapter: vercel({
     webAnalytics: { enabled: true }
   }),
-})
+});
