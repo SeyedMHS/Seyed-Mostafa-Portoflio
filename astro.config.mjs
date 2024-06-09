@@ -7,7 +7,7 @@ import vercel from '@astrojs/vercel/serverless'
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://www.mostafa-hashemi.com",
+  site: "https://seyed-mostafa-portofliofdgfdgfdgd.vercel.app/",
   assets: true,
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
    
