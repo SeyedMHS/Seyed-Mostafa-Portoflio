@@ -10,13 +10,8 @@ export default defineConfig({
   site: "https://seyed-mostafa-portofliofdgfdgfdgd.vercel.app/",
   assets: true,
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
-   
-})
-
-
-export default defineConfig({
-  output: 'server',
-  adapter: vercel({
-    webAnalytics: { enabled: true }
-  }),
+    output: 'server',
+    adapter: vercel({
+      webAnalytics: { enabled: true }
+    }),
 });
