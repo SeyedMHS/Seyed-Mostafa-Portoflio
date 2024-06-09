@@ -6,14 +6,14 @@ draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+- Seyed Mostafa portfolio
 ---
 
 A one line summary of what each file and directory is for:
 ```js
 /
 ├── public/ // Files publicly available to the browser
-│   ├── fonts/ // The default fonts for Astro Sphere
+│   ├── fonts/ // The default fonts for Seyed Mostafa portfolio
 │   │   └── atkinson-bold.woff  // default font weight 700
 │   │   └── atkinson-regular.woff // default font weight 400
 │   ├── js/ // Javascript that will be imported into <head>

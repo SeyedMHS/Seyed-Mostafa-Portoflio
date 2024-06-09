@@ -6,10 +6,10 @@ draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+- Seyed Mostafa portfolio
 ---
 
-Astro Sphere comes preconfigured with social media links for Email, Github, Linked In and Twitter (X), but it's very easy to add more.
+Seyed Mostafa portfolio comes preconfigured with social media links for Email, Github, Linked In and Twitter (X), but it's very easy to add more.
 
 ### Edit `consts.ts`
 
@@ -20,8 +20,8 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "Seyedmhs",
+    HREF: "https://github.com/seyedmhs"
   },
 ]
 ```

@@ -6,7 +6,7 @@ draft: false
 tags:
 - Tutorial
 - Astro
-- Astro Sphere
+- Seyed Mostafa portfolio
 ---
 
 Seyed Mostafa portfolio is designed to be configurable. This article will cover the basics on
@@ -18,7 +18,7 @@ configuring the site and make it personal.
 //astro.config.mjs
 
 export default defineConfig({
-  site: "https://astro-sphere.vercel.app", // your domain here
+  site: "https://Mostafa-hashemi.com", // your domain here
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
 ```
@@ -29,8 +29,8 @@ export default defineConfig({
 // src/consts.ts
 
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
+  TITLE: "Seyed Mostafa portfolio",
+  DESCRIPTION: "Welcome to Seyed Mostafa portfolio, Information technology engineer",
   AUTHOR: "Mark Horn",
 }
 ```
