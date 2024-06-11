@@ -1,5 +1,5 @@
 {
-  "name": "astro-sphere",
+  "name": "Seyed Mostafa Portoflio",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
@@ -32,7 +32,7 @@
     "tailwindcss": "^3.4.4",
     "typescript": "^5.4.5"
   },
-  "description": "![Astro Sphere Lighthouse Score](_astrosphere.jpg)",
+  "description": "![Seyed Mostafa Portoflio Lighthouse Score](_astrosphere.jpg)",
   "main": "index.js",
   "keywords": [],
   "author": "",
