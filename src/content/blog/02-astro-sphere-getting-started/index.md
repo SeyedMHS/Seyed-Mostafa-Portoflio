@@ -31,7 +31,7 @@ export default defineConfig({
 export const SITE: Site = {
   TITLE: "Seyed Mostafa portfolio",
   DESCRIPTION: "Welcome to Seyed Mostafa portfolio, Information technology engineer",
-  AUTHOR: "Mark Horn",
+  AUTHOR: "SeyedMostafa Hashemi Shahroudi",
 }
 ```
 
@@ -76,8 +76,8 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "SeyedMHS",
+    HREF: "https://github.com/SeyedMHS"
   },
 ]
 ```
