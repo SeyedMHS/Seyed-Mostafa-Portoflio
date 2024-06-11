@@ -18,7 +18,7 @@ configuring the site and make it personal.
 //astro.config.mjs
 
 export default defineConfig({
-  site: "https://Mostafa-hashemi.com", // your domain here
+  site: "seyed-mostafa-portoflio-l2it49his-seyedmhs-projects.vercel.app", // your domain here
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
 ```
