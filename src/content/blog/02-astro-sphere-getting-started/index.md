@@ -18,7 +18,7 @@ configuring the site and make it personal.
 //astro.config.mjs
 
 export default defineConfig({
-  site: "https://seyed-mostafa-portoflio-git-main-seyedmhs-projects.vercel.app", // your domain here
+  site: "https://mostafa-hashemi.com", // your domain here
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
 ```
@@ -30,8 +30,8 @@ export default defineConfig({
 
 export const SITE: Site = {
   TITLE: "Seyed Mostafa portfolio",
-  DESCRIPTION: "Welcome to Seyed Mostafa portfolio, Information technology engineer",
-  AUTHOR: "SeyedMostafa Hashemi Shahroudi",
+  DESCRIPTION: "Welcome to Seyed Mostafa portfolio, a portfolio and blog for designers and developers.",
+  AUTHOR: "Mark Horn",
 }
 ```
 
@@ -76,8 +76,8 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "SeyedMHS",
-    HREF: "https://github.com/SeyedMHS"
+    TEXT: "markhorn-dev",
+    HREF: "https://github.com/markhorn-dev/astro-sphere"
   },
 ]
 ```
