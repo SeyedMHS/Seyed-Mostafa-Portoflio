@@ -10,8 +10,10 @@ export default defineConfig({
   site: "https://seyed-mostafa-portoflio-git-main-seyedmhs-projects.vercel.app",
   assets: true,
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
-    output: 'server',
+    output: 'static',
     adapter: vercel({
       webAnalytics: { enabled: true }
+      
     }),
+    
 });
