@@ -12,11 +12,8 @@ export async function get({ request }) {
       },
     });
   } catch (error) {
-    console.error('خطأ في توليد PDF:', error);
-    console.error('تفاصيل الخطأ:', error.stack);
-    return new Response('خطأ داخلي في الخادم', { status: 500 });
+    console.error('Error generating PDF:', error);
+    console.error('Error details:', error.stack);
+    return new Response('Internal Server Error', { status: 500 });
   }
 }
-
-
-
