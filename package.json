@@ -16,6 +16,7 @@
   "dependencies": {
     "@astrojs/check": "^0.7.0",
     "@astrojs/mdx": "^3.1.0",
+    "@astrojs/react": "^3.5.0",
     "@astrojs/rss": "^4.0.6",
     "@astrojs/sitemap": "^3.1.5",
     "@astrojs/solid-js": "^4.3.0",
@@ -27,6 +28,8 @@
     "clsx": "^2.1.1",
     "fuse.js": "^7.0.0",
     "pdf-lib": "^1.17.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "sharp": "^0.33.4",
     "solid-js": "^1.8.17",
     "tailwind-merge": "^2.3.0",
