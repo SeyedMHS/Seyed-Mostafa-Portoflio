@@ -11,6 +11,13 @@ export default defineConfig({
   assets: true,
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
     output: 'static',
+    vite: {
+      build: {
+        rollupOptions: {
+          // هنا يمكنك تخصيص إعدادات Rollup إذا لزم الأمر
+        }
+      }
+    },
    
     
 });
