@@ -1,8 +1,15 @@
 ---
-company: "Dalel Altaleb Company"
-role: "Web Developer and CRM"
-dateStart: "11/27/2023"
-dateEnd: "Now"
+company: "Infrastructure Architect "
+role: "Network Engineer, NET Developer, DBA, Department Planning"
+dateStart: "11/11/2023"
+dateEnd: "Present"
 ---
 
-I am specialist manages the technology of a company to improve marketing. My responsibility is to maximize the efficiency of the CRM data and software to improve customer care. I am the liaison between employees and the CRM software. my tole specialist affects sales, customer service, and brand image. To successfully find ways to optimize complex CRM software programs to market effectively to current and potential customers, I am great analytical skills, solid communication, and organizational skills, and be good collaborators.
+•	Designed, implemented and managed all aspects of a 13 server, 45 client network.
+•	Primary IT support for 40+ employees including several off-site Account Executives and 10 Developers
+•	Designed and implemented a highly available and secure network infrastructure for successful .com
+•	Created and executed a comprehensive Disaster Recovery Plan, including policy development, employee awareness, backup management and periodic auditing/fire drills
+•	Actively managed Email Service Provider relations by ensuring industry best practices are followed to guarantee optimal domain deliverability -  this includes periodic requirements review, setting up and maintaining feedback loops, managing bounces and actively maintaining company email distribution lists
+•	Provided routine and complex data mining services for employees and management
+•	Responsible for preparing and submitting the IT department's annual budget to company principals
+•	Assisted developers in software and database design, security and optimization
