@@ -1,8 +1,8 @@
 ---
-company: "Infrastructure Architect "
-role: "Network Engineer, NET Developer, DBA, Department Planning"
-dateStart: "11/11/2023"
-dateEnd: "Present"
+company: "Information Technology Engineer "
+role: "DBA"
+dateStart: "08/01/2022"
+dateEnd: "11/10/2023"
 ---
 
 •	Designed, implemented and managed all aspects of a 13 server, 45 client network.
